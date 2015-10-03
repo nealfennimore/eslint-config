@@ -1,0 +1,19 @@
+{
+  "name": "eslint_config",
+  "version": "0.0.2",
+  "description": "Personal eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nealfennimore/eslint-config.git"
+  },
+  "author": "Neal Fennimore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nealfennimore/eslint-config/issues"
+  },
+  "homepage": "https://github.com/nealfennimore/eslint-config#readme"
+}
