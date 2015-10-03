@@ -1,5 +1,5 @@
 {
-  "name": "eslint_config",
+  "name": "eslint-config-nfen",
   "version": "0.0.2",
   "description": "Personal eslint config",
   "main": "index.js",
