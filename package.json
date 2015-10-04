@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-nfen",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Personal eslint config",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/nealfennimore/eslint-config/issues"
   },
-  "homepage": "https://github.com/nealfennimore/eslint-config#readme"
+  "homepage": "https://github.com/nealfennimore/eslint-config#readme",
+  "devDependencies": {}
 }

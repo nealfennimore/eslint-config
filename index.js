@@ -16,7 +16,6 @@ module.exports = {
       "destructuring": true,
       "forOf": true,
       "generators": false,
-      "modules": true,
       "objectLiteralComputedProperties": true,
       "objectLiteralDuplicateProperties": false,
       "objectLiteralShorthandMethods": true,
@@ -41,6 +40,6 @@ module.exports = {
 
         "camelcase": 2,
         "yoda": [2, "never"],
-        "strict": [2, "function"]
+        "strict": [2, "global"]
     }
 }
