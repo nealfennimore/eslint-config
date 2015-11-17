@@ -41,6 +41,7 @@ module.exports = {
 
         "camelcase": 2,
         "yoda": [2, "never"],
-        "strict": [2, "global"]
+        "strict": [2, "global"],
+        "no-mixed-requires": 0
     }
 }
