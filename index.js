@@ -32,6 +32,9 @@ module.exports = {
         "semi": [2, "always"],
 
         "no-unused-vars": [1, {"vars": "all", "args": "after-used"}],
+        "no-use-before-define": [2, "nofunc"],
+
+        "no-multi-space": 0,
 
         "no-console": 1,
         "no-alert": 1,
