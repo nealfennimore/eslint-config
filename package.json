@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-nfen",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Personal eslint config",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,8 @@
     "url": "https://github.com/nealfennimore/eslint-config/issues"
   },
   "homepage": "https://github.com/nealfennimore/eslint-config#readme",
-  "devDependencies": {}
+  "peerDependencies": {
+    "eslint": ">= 3",
+    "eslint-plugin-react": ">= 6"
+  }
 }
