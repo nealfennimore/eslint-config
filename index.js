@@ -46,5 +46,9 @@ module.exports = {
         "yoda": [2, "never"],
         "strict": [1, "global"],
         "no-mixed-requires": 1
+
+        "react/jsx-uses-vars": 1,
+        "react/react-in-jsx-scope": 1,
+        "react/prop-types": 1
     }
 }
