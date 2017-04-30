@@ -1,10 +1,7 @@
 module.exports = {
     "extends": [
-        "plugin:react/recommended",
+        "airbnb",
         "nfen/lib/defaults"
-    ],
-    "plugins": [
-        "react"
     ],
     "rules": {
         "react/jsx-uses-vars": 1,
