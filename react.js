@@ -3,7 +3,7 @@ module.exports = {
         "plugin:react/recommended",
         "nfen/lib/defaults"
     ],
-    "plugins:" [
+    "plugins": [
         "react"
     ],
     "rules": {
