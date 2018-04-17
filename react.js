@@ -9,6 +9,24 @@ module.exports = {
         "react/jsx-indent": [2, 4],
         "react/jsx-uses-vars": 1,
         "react/prop-types": 1,
-        "react/react-in-jsx-scope": 1
+        "react/react-in-jsx-scope": 1,
+        "react/sort-comp": [
+            1,
+            {
+                "order": [
+                    "type-annotations",
+                    "static-methods",
+                    "constructor",
+                    "state",
+                    "instance-variables",
+                    "instance-methods",
+                    "lifecycle",
+                    "getters",
+                    "setters",
+                    "everything-else",
+                    "render"
+                ]
+            }
+        ]
     }
 }
