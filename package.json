@@ -20,7 +20,9 @@
     "eslint": "^6",
     "eslint-config-airbnb": "^18",
     "eslint-plugin-react": "^7",
-    "eslint-plugin-import": "^2"
+    "eslint-plugin-import": "^2",
+    "eslint-plugin-jsx-a11y": "^6",
+    "eslint-plugin-react-hooks": "^1"
   },
   "dependencies": {
     "babel-eslint": "^10.1.0"
