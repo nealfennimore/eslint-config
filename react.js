@@ -19,14 +19,18 @@ module.exports = {
                     "constructor",
                     "state",
                     "instance-variables",
-                    "instance-methods",
                     "lifecycle",
                     "getters",
                     "setters",
+                    "instance-methods",
                     "everything-else",
                     "render"
                 ]
             }
+        ],
+        "react/require-default-props": [
+            0,
+            "never"
         ]
     }
 }
