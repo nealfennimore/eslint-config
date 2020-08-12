@@ -1,0 +1,20 @@
+{
+    "root": true,
+    "env": {
+        "node": true,
+        "commonjs": true,
+        "es6": true
+    },
+    "extends": [
+        "./lib/defaults.js"
+    ],
+    "parser": "@babel/eslint-parser",
+    "parserOptions": {
+        "requireConfigFile": false,
+        "babelOptions": {
+            "plugins": [
+                // "@babel/plugin-proposal-private-methods"
+            ]
+        }
+    }
+}
